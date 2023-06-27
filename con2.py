@@ -1,6 +1,6 @@
-G_key=''
+G_key=1
 print(G_key)
-crads=''
+crads=2
 print(crads)
-number=''
+number='3
 print(number)
