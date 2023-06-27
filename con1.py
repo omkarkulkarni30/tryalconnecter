@@ -1,4 +1,4 @@
-G_key=1
-print('G_key=',G_key)
-cr=2
-print('cr=',cr)
+G_key = int(input("Enter the value for G_key: "))
+print('G_key =', G_key)
+cr = int(input("Enter the value for cr: "))
+print('cr =', cr)
